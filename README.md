@@ -1,8 +1,9 @@
-###**Projeto Astromatch é um aplicativo estilo o Tinder feito com React JS** 
+### Projeto Astromatch é um aplicativo estilo o Tinder feito com React JS 
+O projeto foi feito com uma Api disponibilizada pela Labenu, onde conseguimos dar like e deslike e ver os pretendentes que aceitaram o seu match.
 
 ##
 
-O projeto foi feito com uma Api disponibilizada pela Labenu, onde conseguimos dar like e deslike e ver os pretendentes que aceitaram o seu match.
+
 
 link do projeto: [berserk-bait.surge.sh](https://berserk-bait.surge.sh/)
 
